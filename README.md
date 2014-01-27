@@ -1,12 +1,9 @@
-forgeMyDocs
-===========
+#Forge My Docs
 
 Use my handwriting and pretend you're me
 
-### Usage
-
-Add the fonts to your project.
-
+###Usage
+####For the web
 Add the following to your CSS
 ```css
 @font-face{ 
@@ -25,3 +22,9 @@ Use it somewhere
 ```css
 body { font-family: 'Stefan'; }
 ```
+
+####For Macs
+Double click .otf/.tff file -> 'Install Font'
+
+####Else
+You're on your own
