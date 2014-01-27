@@ -2,6 +2,8 @@
 
 Use my handwriting and pretend you're me
 
+![alt tag](https://raw.github.com/stefbowerman/forgeMyDocs/master/ex.png)
+
 ###Usage
 ####For the web
 Add the following to your CSS
